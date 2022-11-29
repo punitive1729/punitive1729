@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Punit Kumar Ojha
 - 👀 I’m interested in Software Development, Algorithms, Mathematics and Competitive Programming
-- 🌱 I’m currently learning Java, React
+- 🌱 I’m currently learning Java, Spring, React
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 How to reach me ako13@iitbbs.ac.in
 
